@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Noot Regular";
+  src: url("./components/fonts/Noot\ Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+body, * {
+  font-family: 'Noot Regular', sans-serif;
+  /* color: #7ED957; */
+  /* text-shadow: 1px 1px 1px#000; */
+  /* letter-spacing: 3px; */
+}
